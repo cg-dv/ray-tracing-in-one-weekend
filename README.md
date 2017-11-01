@@ -10,8 +10,12 @@ glass.
 ## Example Images
 
 Greyscale and color arrays of spheres:
+
+
 ![Greyscale spheres](/example_images/grey_array.png?raw=true "Greyscale spheres")
 ![Colored spheres](/example_images/color_array.png?raw=true "Colorful spheres")
+
+
 
 Recreated cover image from book:
 
